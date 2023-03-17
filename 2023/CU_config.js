@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023gbos",
+      "defaultValue": "2023norshore",
       "required": "true",
       "disabled": "true"
     },
